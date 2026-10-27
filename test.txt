@@ -1,5 +1,3 @@
 I am master
-<<<<<Head
 login
-=====Payment
->>>>>>Payment
+Payment
